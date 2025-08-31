@@ -1,0 +1,12 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^6.4.15",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  }
+}
