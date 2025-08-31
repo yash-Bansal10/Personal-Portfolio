@@ -2,11 +2,23 @@
   "name": "personal-portfolio",
   "version": "1.0.0",
   "dependencies": {
-    "nodemailer": "^6.9.14"
+    "@react-three/drei": "^10.7.4",
+    "@react-three/fiber": "^9.3.0",
+    "framer-motion": "^12.23.12",
+    "nodemailer": "^6.9.14",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-intersection-observer": "^9.16.0"
   },
   "devDependencies": {
     "@types/nodemailer": "^6.4.15",
     "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0"
+    "@types/react-dom": "^18.3.0",
+    "vite": "^7.1.3"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
 }
