@@ -146,7 +146,7 @@ const Hero: React.FC = () => {
                     animate={controls}
                     className="text-2xl md:text-4xl font-medium text-gray-300"
                 >
-                    <Typewriter roles={["AI and ML Explorer", "KIET Ghaziabad Student", "AIR 714 NDA 2 2024"]} />
+                    <Typewriter roles={["AI and ML Explorer", "Student at KIET GROUP OF INSTITUTIONS, Ghaziabad", "AIR 714 NDA 2 2024"]} />
                 </motion.h2>
             </div>
         </section>
