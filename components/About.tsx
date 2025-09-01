@@ -66,11 +66,11 @@ const About: React.FC = () => {
                 {/* Left column for the biography */}
                 <motion.div variants={itemVariants}>
                     <p className="text-gray-300 leading-relaxed text-lg">
-                        Hello! I'm Yash Bansal, an AI and ML Explorer and a student at KIET Ghaziabad. As a Full Stack Developer, I am passionate about building intelligent applications and exploring the frontiers of technology.
+                        Hello! I'm Yash Bansal, an AI and ML Explorer and a CSE AI student at KIET, Ghaziabad. I am passionate about building intelligent applications and exploring the frontiers of technology.
                         <br /><br />
-                        My journey is driven by a curiosity for how machines learn and a desire to create impactful, data-driven solutions to complex problems. I specialize in full-stack development, but I'm always eager to dive into new technologies and expand my skillset.
+                        My journey is driven by a curiosity for how machines learn and a desire to create impactful, data-driven solutions to complex problems. I specialize in full-stack development,exploring AI & ML, learning DSA but I'm always eager to dive into new technologies and expand my skillset.
                         <br /><br />
-                        Alongside my technical journey, I'm proud to have secured AIR-714 in the NDA 2 2024 Examination, reflecting my dedication and discipline.
+                        Alongside my technical journey, I'm proud to have secured AIR-714 in the NDA 2 2024 Examination, reflecting my Leadership, Discipline, Problem Solving, Resilience, Team Collaboration and Effective Communication skills.
                     </p>
                 </motion.div>
                 {/* Right column for the skills grid */}
